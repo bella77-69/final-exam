@@ -1,13 +1,14 @@
 * {
   box-sizing: border-box;
   margin: 0 auto;
-  background-color: #d2d2d2;
+  background-color: #d2d2d2f2;
 }
 
 .container {
   margin-top: 5rem;
 
 }
+
 .list-group {
   list-style: none;
   text-align: left;
@@ -23,6 +24,10 @@
 
 }
 
-.highlight {
-  background-color: #ff0;
+mark {
+  background-color: rgb(247, 247, 8);
+}
+
+span {
+  background-color: transparent;
 }
