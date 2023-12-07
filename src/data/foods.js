@@ -28,3 +28,5 @@ export const foods = [
         "Dim sum is a variety of smaller dishes that can be enjoyed both during lunch or dinner"
     }
   ];
+
+  export default foods;
